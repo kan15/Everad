@@ -1,0 +1,197 @@
+@media all and (max-width: 1550px) {
+    .cure__wrapper {
+        left: 1%;
+    }
+}
+@media all and (max-width: 1290px) {
+    .phone-widget__arrow {
+        right: -20px;
+    }
+}
+@media all and (max-width: 1272px) {
+    .cure__wrapper {
+        left: 0;
+    }
+}
+@media all and (max-width: 1256px) {
+    .header__wrapper {
+        justify-content: space-evenly;
+    }
+    .cure__img {
+        width: 80%;
+    }
+    .intro__info {
+        margin-right: 33px;
+    }
+    .price-orange {
+        left: 250px;
+    }
+    .price-green {
+        top: 90px;
+        left: 343px;
+    }
+    .statistics__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .statistics {
+        width: 900px;
+    }
+}
+@media all and (max-width: 1152px) {
+    .complex-item__text {
+        margin-left: 5px;
+    }
+    .complex__wrapper {
+        width: 350px;
+        margin-right: 20px;
+    }
+}
+@media all and (max-width: 1136px) {
+    .cure__wrapper {
+        top: 517px;
+    }
+    .cure__img {
+        width: 70%;
+    }
+    .price-orange {
+        left: 177px;
+    }
+    .price-green {
+        top: 90px;
+        left: 275px;
+    }
+    .description {
+        padding-top: 0px;
+    }
+}
+@media all and (max-width: 1108px) {
+    .disease-item {
+        width: 305px;
+    }
+}
+@media all and (max-width: 1170px) {
+    .complex__wrapper {
+        text-align: left;
+    }
+    .intro {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .cure__wrapper{
+        position: static;
+    }
+    .price-orange {
+        left: 281px;
+    }
+    .price-green {
+        top: 76px;
+        left: 370px;
+    }
+    .cure__img {
+        width:550px;
+    }
+    .intro {
+        background-image: url(//www.toptal.com/designers/subtlepatterns/patterns/symphony.png);
+    }
+    .intro__info {
+        justify-content: space-evenly;
+    }
+    .description {
+        padding-top: 40px;
+    }
+}
+@media all and (max-width: 1060px) {
+    .disease-list__wrapper {
+        display: flex;
+        justify-content: center;
+    }
+    .disease-item__title {
+        text-align: left;
+    }
+    .disease-list {
+        display: block;
+        text-align: center;
+    }
+    .disease-item {
+        width: 462px;
+        margin-top: 55px;
+    }
+    .disease-item hr {
+        width: 20%;
+        margin-top: 15px;
+    }
+    .disease-list__wrapper > ul > li:nth-child(1) {
+        margin-top: 0;
+    }
+}
+@media all and (max-width: 960px) {
+    .description-info {
+        display: flex;
+        flex-direction: column;
+    }
+    .header__wrapper {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .description-info__title {
+        display: block;    
+    }
+    .statistics {
+        padding: 48px 30px 43px;
+    }
+    .header-benefits__wrapper {
+        display: flex;
+        justify-content: center;
+        }
+}
+@media all and (max-width: 706px) {
+    .header-benefits {
+        width: 100%;
+        justify-content: space-between;
+    }
+    .intro__info {
+        justify-content: initial;
+        flex-direction: column;
+        text-align: center;
+    }
+    .complex__wrapper {
+        margin: 0 auto;
+    }
+    .delivery-form__wrapper {
+    margin: 0 auto;
+    }
+    .complex__title {
+        padding-bottom: 30px;
+    }
+    .delivery-form__wrapper {
+        margin-top: 35px;
+    }
+    .description-info__text {
+        padding: 10px;
+    }
+    .header-benefits__block {
+        width: 30%;
+    }
+}
+@media all and (max-width: 550px) {
+    .cure__img {
+        width:400px;
+    }
+    .price-orange {
+        left: 45px;
+        top: -22px;
+    }
+    .price-green {
+        left: 114px;
+        top: 46px;
+    }
+    .header-benefits {
+        flex-direction: column;
+    }
+    .header-benefits__block {
+        width: 46%;
+        margin: 0 auto 20px;
+    }
+}
